@@ -1,0 +1,220 @@
+
+Crackpots - Commodore 64
+----------------------------------------------------------------------------
+
+Coded by Antonio Savona
+Gfx by Steven Day
+Music and sfx by Saul Cross
+
+Based on the original game by Dan Kitchen
+
+Special thanks to David Motowylak and Ralle Möritz for additional testing
+----------------------------------------------------------------------------
+
+                            PEST CONTROL HANDBOOK
+
+                   Approved By Brooklyn Block Association
+
+We're infested! A bug barrage is swarming out of the sewer, chomping away at
+every building in town. Entire neighborhoods are now crumb piles! Over in
+Brooklyn, Potsy, the rooftop gardener, is defeating his beloved building with
+his only weapon - potted petunias. Be a good neighbor. Help him take potshots
+at the insect invaders... Quick! When too many bugs crawl into the windows,
+they'll start eating you out of house and home!
+
+
+>> BASIC BUG BASHING
+
+1.  Hook up your Commodore 64. Follow manufacturer's instructions.
+
+2.  With power OFF, plug in game cartridge.
+
+3.  Turn power ON. If no picture appears, check connection of your Commodore
+    64 system to TV, then repeat steps 1-3.
+
+4.  Plug in the Joystick Controller in Port 2 (Port 1 is not used). To move 
+    Potsy left or right, push the joystick left or right.
+    To push a pot over the ledge, press the red button when Potsy is
+    standing behind it.
+
+5.  To begin a new game, press the red button. You'll hear the pitter-patter
+    of tiny bug feet rising up through the sewer. Take a breath and get
+    ready...  here they come!!
+
+6.  Bugs come in waves. The first wave is black, then colors progress to
+    blue, red and green. There are twelve bugs in each wave. When you make it
+    through the green wave, the cycle will repeat. However, you'll then be at
+    the next level and all the bugs will move faster.
+
+7.  Six Bonus Bugs are displayed below the sewer at the beginning of each
+    wave. Whenever a bug slithers into a window, a Bonus Bug will disappear
+    from this display. When six bugs have crawled into the windows, all six
+    Bonus Bugs will be gone and your Joystick's red button won't release any
+    more flowerpots. Then, one of the crawlers will chew up a layer of your
+    building, and you'll repeat the wave at a slower level.
+
+8.  The game ends when the creepy crawlers have gobbled up six layers of the
+    building.
+
+9.  At any time during a game, press <- button to toggle music on/off.
+    Press space to pause game, then press space again to un-pause.
+
+>> SCORING
+
+                --------------------------------------------
+               |        |          COLOR OF BUGS            |
+               |        |                                   |
+               |  LEVEL | BLACK  |  BLUE  |  RED   | GREEN  |
+                --------------------------------------------
+               |    1   |   10   |   20   |   30   |   40   |
+                --------------------------------------------
+               |    2   |   20   |   40   |   60   |   80   |
+                --------------------------------------------
+               |    3   |   30   |   60   |   90   |  120   |
+                --------------------------------------------
+               |    4   |   40   |   80   |  120   |  160   |
+                --------------------------------------------
+               |    5   |   50   |  100   |  150   |  200   |
+                --------------------------------------------
+               |    6   |   60   |  120   |  180   |  240   |
+                --------------------------------------------
+               |    7   |   70   |  140   |  210   |  280   |
+                --------------------------------------------
+               |    8   |   80   |  160   |  240   |  320   |
+                --------------------------------------------
+
+Bonus Bugs. 200 points are awarded for each bug print remaining at the end of
+every wave.
+
+
+>> BUGS OF MANY COLORS
+
+The bugs crawl up the wall in four different directions, depending one their
+color.
+
+    o   Black bugs crawl straight up.
+    o   Blue bugs wiggle side to side.
+    o   Red bugs crawl diagonally.
+    o   Green bugs zig-zag between two windows.
+
+                         _____      _____      _____
+                        |_____|    |_____|    |_____|
+                Black      X                     X      Blue
+                 bug       .                     .       bug
+                 path      .                      .      path
+                           .                     .
+                           .                    .
+                           .                     .
+
+                         _____      _____      _____
+                        |_____|    |_____|    |_____|
+                           X                            Red
+                           .                             bug
+                                 .                       path
+                                       .
+                                             .
+                                                   .
+
+                         _____      _____      _____
+                        |_____|    |_____|    |_____|
+                                      X                 Green
+                                      .                  bug
+                                 .                       path
+                            .
+                                 .
+                                      .
+
+
+>> GETTING THE FEEL OF CRACKPOTS
+
+Becoming a seasoned Crackpot doesn't just happen after one day in the big
+city. You need to stick around for a while and practice. For starters, hang
+out with Potsy. Check out his speed and style. Develop a sense of timing
+based on the speed and direction of the bugs and the time it takes for a
+petunia to fall. This will vastly improve your accuracy at pitching a plant
+at just the right time.
+
+
+>> JOIN THE ACTIVISION "CRACKPOTS"
+
+If you help Potsy pitch pots at pests for points totaling 75,000 or more,
+you've been more than a good neighbor. Consider yourself an official
+Activision Crackpot. Send us a photo of the TV screen showing your qualifying
+score, along with your name and address, and we'll send you the official
+Crackpot emblem. Be sure to write the name 'Crackpots' and your score on the
+bottom corner of the envelope.
+
+
+>> THERE'S A BUG IN THE HOUSE!!!
+
+Most people aren't too disturbed by insects crawling in the woods and wilds.
+Let one appear in the parlor, however, and a frenzy sets in.
+
+Yet, like us, these tiny creatures are nature's handiwork and, as
+co-inhabitants of planet Earth, perhaps we should all get to know each other.
+
+Roaches are old-timers. Human existence began one million years ago, while
+roaches have been around for 300 million years! If you're wondering what to
+serve a roach for dinner, they'll eat most foods, in the pantry or in the
+garbage. But did you know they also like glue, watercolor paints and stale
+beer?
+
+Fleas are the high jumpers of the planet. They can leap up to 50 times their
+height. We'd have to jump up to 300 feet to compete with that!
+
+Clothes moths love wool. But did you know that they eat your sweaters before
+they become moths? The mother moth, leaves her eggs on your clothes and rugs
+and, when they hatch baby caterpillars emerge. That's who does the eating!
+In their winged state, they are unable to eat.
+
+Spiders are not insects, they're Arachnids. Insects have six legs, spiders
+have eight. A spider in the house is a friend indeed! If you can tolerate
+their presence, and don't run them the wrong way, they will do you no harm.
+Allow them to spin their gentle webs and rid your house of many insect pests.
+
+
+>> HOW TO BECOME THE NEIGHBORHOOD CRACKPOT
+
+Tips from Dan Kitchen, designer of Crackpots
+
+Dan Kitchen grew up in a family of game designers and computer pros (Garry
+and Steve are his brother designers). It's no wonder that he was designing
+games right out of high school - in 1979! In his spare time, he plays folk
+guitar, tinkers with electronics and jogs.
+
+"Crackpots is a game that requires balance, advanced planning, good aim and
+the ability to remain calm when things appear hopeless. Follow these tips and
+you'll soon be a smashing success.
+
+"Play the sidewalk - that is, try to hit the bugs while they're crawling
+along the sidewalk or when they're just coming out of the sewer. The closer
+they get to the windows, the less time you'll have to react.
+
+"When you're up in the higher levels, the bugs will crawl too fast for you to
+get them all. You're better off playing, say, three selected windows in the
+middle. It's OK if a few crawlers get in on the extreme right or left. You
+only have to get seven out of twelve bugs to go to the next level.
+
+"Notice that the red bugs end up 2 windows away from where they began their
+diagonal climb. And, while the building is still pretty high, the green bugs
+will end up at the window over the spot they started from below. Keep this in
+mind and you'll soon be dropping the right pot at the right time.
+
+"Then, if you still can't stamp out bugs, you can always buy the original,
+inner-city bug killer - a pair of shoes with pointed toes. Know what I mean?
+Drop me a line if you do. God bless!"
+
+              
+                                -*-  -*-  -*-
+
+Let us get to know you! If you have questions or comments about our games or
+clubs, or want to be added to our mailing list, drop us a note or call the
+"Game Hotline" toll-free at (800)633-GAME. In California, please call
+(415)940-6044/5.
+
+                      Activision, Inc., Drawer No, 7287
+                           Mountain View, CA 94039
+
+     Atari 2600 and Video Computer System are trademarks of ATARI, Inc.
+
+   (c) 1983 Activision AX-029-03                        Printed in U.S.A.
